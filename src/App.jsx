@@ -1,11 +1,7 @@
 import ProfileCardContainer from './profile-card/ProfileCardContainer'
 
 function App() {
-  return (
-    <div>
-      <ProfileCardContainer />
-    </div>
-  )
+  return <ProfileCardContainer />;
 }
 
 export default App
