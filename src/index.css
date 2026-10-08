@@ -3,9 +3,14 @@
   color: blue;
 }
 
-.profile-card p {
+.profile-card p:first {
   font-size: xx-small;
   color: chocolate
+}
+
+.profile-card p:last-child {
+  font-size: small;
+  color: aquamarine
 }
 
 .profile-card {
