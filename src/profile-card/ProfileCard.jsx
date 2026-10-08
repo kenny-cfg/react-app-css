@@ -28,6 +28,7 @@ const ProfileCard = ({ name, age }) => {
     <Name>{name}</Name>
     <Age>{age}</Age>
     <Banner>THIS IS THE SECOND P</Banner>
+    <Banner>THIS IS A THIRD P</Banner>
   </Div>
 }
 
